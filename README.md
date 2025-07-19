@@ -22,22 +22,24 @@
 
 ## 📂 Структура проекта
 
-FileXorProcessor/
-├── src/
-│ ├── fileprocessor.cpp
-│ ├── fileprocessor.h
-│ ├── filerules.h
-│ ├── main.cpp
-│ ├── mainwindow.cpp
-│ ├── mainwindow.h
-│ └── settings.h
-├── README.md
+FileXorProcessor/ 
+├── src/ 
+│ ├── fileprocessor.cpp 
+│ ├── fileprocessor.h 
+│ ├── filerules.h 
+│ ├── main.cpp 
+│ ├── mainwindow.cpp 
+│ ├── mainwindow.h 
+│ └── settings.h 
+├── README.md 
 
-##⚙️ Файлы
+## ⚙️ Файлы
+
 Файлы сохраняются в:
 Windows: ...\build\output\
 
-##📝 Пример использования
+## 📝 Пример использования
+
 1.**Укажите входную и выходную директории.**
 2.**Задайте XOR-значение (например, A5A5A5A5).**
 3.**Выберите маску файлов (например, *.bin).
